@@ -1,0 +1,7 @@
+------------------
+NOTES
+------------------
+
+A library member browses shelves and wants to check out a movie
+A librarian alerts a library member their item will be overdue in a week
+A library member attempts to renew their book but another member has already reserved it

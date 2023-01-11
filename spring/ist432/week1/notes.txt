@@ -1,0 +1,60 @@
+------------------
+NOTES
+------------------
+
+The Legal Process
+------------------
+Law - a set of rules set forth by and for society and government that guides our actions
+	not all rules and customs are law but all laws are binding rules
+	law is dynamic and changes with society and technology
+	there are many different types of law
+		- Substantive law
+			- What it is that you're allowed to do
+			- creates, defines and regulates the legal rights and obligations of the parites
+			- Common law vs. statutory or civil law (legal code)
+			- Well defined and know exactly what the law is
+				- ex. Speed limit of 35 is clear and defined
+
+		- Common law
+			- Based on judicial precedent; interpreation of prior case law by judges
+			- based on unwritten laws of England; focus on broas principles rather than rules
+			- Unwritten notion of "lets protect the environment" without an explicit law
+			- Flexible - since it is based on the previous rulings of judges, it can be re-interpreted in the future
+
+		- criminal law
+			- prosecution and imposition of penalties by the government of a person for an act that has been classified as a crime
+			- dispute between private parties and society
+			- needs to be very clearly defined and written
+			- typically the court system errs on the side of the person who is charged
+
+		- civil law (non-criminal law)
+			- legal rules and priinciples applied in non-criminal matters
+
+		- constitutional law
+			- interprets and implements the US consititution with respect to intergovernmental and government/ induvidual relationships; focus on supreme court rulings
+			-
+
+		- Procedural law
+			- prescribes the rules, practices and procedures that are used to enforce Substantive law
+			- lots of ways to get cases to get dismissed or do some voodoo lawyer magic
+			- laws that layout the way on how to do things
+				- ex. Laws defining how the police can pull you over and give you a speeding ticket
+
+		- civil law (statutory law)
+			- based on the legal codes and statues enacted by legislature
+			- predictable, provides greater clarity
+
+		- administrative law
+			- laws and legal principles made by administrative agencies (Fed and state) that govern their administration and relugation
+
+		- international law
+			- rules and principles that govern the relations of nations with each other
+
+		- etc.
+	we are bound by all criminal laws however with differnet types of laws bind different types of entities
+		IP laws, business regulations, etc. bind corporations
+
+    Common laws that are passed on a daily basis are precedent
+
+		Right to Repair - companies who do business in NY need to abide by certain guidelines such as publishing schmeatics and not voiding warranties if a person repairs their device
+

@@ -1,0 +1,95 @@
+------------------
+NOTES
+------------------
+
+Hedonistic Consequentialism = Utilitarianism in short
+
+Consequentialism and Bentham
+
+Aristotle
+	Ethics - an account of the good and the bad
+		purely descriptive - "is" claims
+			something is good / something is bad
+
+Moral Theory - an account of what is right and what is wrong
+	more than just what is good and bad, but includes it
+	Prescriptive - "ought" and "should" statements
+	defining our obligations and duties
+
+Consequentialism - moral theory that holds right and wrong to depend on consequences of an action (outcomes)
+	an action is good if it has good outcome, an action is bad if it has bad outcomes
+
+Utilitarianism - a version of consequentialism
+	Jeremy Bentham ( 1748 - 1832 ) - founder of utilitarianism
+		extremely radically liberal for the time, based on his utilitarian argument
+			pushed for abolition of slavery, equal rights for women and homosexuals, etc.
+
+The principles of Morals and Legislation
+	Clear statement of what is right and wrong
+	apply this principle and make it extendable to all decision making
+	morality comes down to adequately applying this principle
+
+The Principle of Utility (PU)
+	an action is insofar as it augments happiness and it is wrong insofar as it diminished happiness
+
+What is happiness to Bentham
+	happiness = pleasure, benefit, good, advantage, etc
+	unhappiness = pain/ absence of pleasure
+		Hedonist viewpoint
+
+Utility Calculus
+	1.) Intensity
+	2.) Duration
+	3.) Certainty/ uncertainty
+	4.) Propinquity/ remoteness
+	^ Me and now
+	5.) fecundity - chance of being followed by the same sensations
+	6.) purity - not being followed of opposite kinds
+	^ future
+	7.) extent - the number of persons that it extends to
+
+John Stuart Mill ( 1806-1873 )
+------------------
+Utilitarianism ( 1863 )
+	complete justification of the theory of utilitarianism
+
+Intellectual pleasures
+	kept mill alive during deep depression
+
+On Liberty ( 1859 )
+	loosely libertarian, argument for freedom of speech
+	weird imperialist remarks and justifications using utilitarianism
+
+Subjugation of Women ( 1869 )
+	argument for equal female rights
+
+Systematic defense of the theory of utilitarianism
+
+Greatest happiness principle
+	utilitarianism - producing the greatest amount of pleasure for the greatest amount of people
+	actions can be more or less correct in relation the consequences they produce
+	not finding *the* correct decision
+	happiness to Bentham and mill = quantifiable pleasures
+	unhappiness = pain
+	ends and means of activity
+		something difficult and painful is good if it brings happiness and pleasure in the long run
+		something that is easy and joyful is bad if it brings pain and suffering in the long run
+
+The exclusively quantitative mode of Bentham
+	contention between Mills and Bentham
+	Bentham = actual units of pleasure called "utils" that can be added, subtracted, multiplied, etc.
+	Mill = utils make no damn sense, a pleasure cannot be reduced to another
+
+Quality v Quantity of pleasure
+	some pleasures are far more enjoyable than another pleasure
+	we cant actually add up units of different activities and compare them
+	pleasures are different in kind
+
+Not enough to produce tons of different kinds of pleasure, need to provide the correct pleasures
+	not enough to make everyone feel good, must make people actually holistically good
+
+Poll the population what the best pleasure is
+
+Empirical scientific and observation based
+	a common sense conclusion
+

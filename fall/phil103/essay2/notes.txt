@@ -1,0 +1,59 @@
+------------------
+NOTES
+------------------
+
+Questions
+------------------
+World famine of 828 million people.
+
+How would Kant tackle this problem vs how would O'Neill?
+- Kant
+	- TODO: add more here
+	- Grounding thoughts in the categorical imperative - all things must be universally good
+		- "Act only on the maxim whereby thou canst at the same time will that it should become universal law"
+			- ^ use this quote lel
+		- In this case, positive obligation to help, someone must help one in need
+			- Beneficence, universal principle - one must help other people
+		- If something is universally or inherently good, it must be applied successfully in all situations
+		- Law is an objective principle of the will
+
+- Onora O'Neill
+	- The goodness of an action of something is based off of its principles, does it promote more goodness
+	- Key is the second categorical imperative - the mere means
+		- Must allow for the consent of the other party
+			- Cannot coerce, deceive or endanger the other party
+			- must maintain the independence of the other party (they need to be autonomous)
+
+
+Explain the differences between individuals and institutions as each thinker would understand them.
+- Kant focuses on the induvidual agents, one must act in accordance with the universal laws at hand, and has a positive obligation to do so
+	- In contrast to something like subjective principles and inclinations
+	- i will help my mother because it is objectively right to do so, not because i love her
+
+- This Kantian approach is too psychological for institutions, institutions don't have minds
+- therefore O'neill shifts to approach this problem with CI-2
+	- Make decision that allow for autonomy
+	- Treat people with respect and allow them to be their own person
+- Governmental bodies don't have minds and moreover the ability to create cognitive thought
+- Governments should be looking to establish autonomy
+	- cannot get a "matter-of-fact" consent, consent must be clear and willing
+	- no profiting off of the misfortune of others
+
+
+
+How do the thinkers justify these views?
+- CI-1 vs CI-2
+- Kant is most concerned with the universal law, one thing must be applied in all situatoins
+- O'Neill is most concerned with the mere means and ends in themself
+
+
+Which figure offers the a more viable option?
+- O'Neill offers the far more valuable option in this situation
+	-  Issue with Deontology is a lack of ambition - its really hard to get a correct answer
+	-  O'Neill introduces the consideration of consequences (only after you haven't used on as a mere means or violated autonomy)
+- Biological vs. Biographical life
+	- Don't need to fully wipe out the problem however, one could introduce something like sustainable farming
+	- proverb of teaching a man to fish vs giving a man a fish
+- Welfare at home
+	- Cannot overcommit resources that would strain those at home
+	- Cannot create dependence through something like welfare
