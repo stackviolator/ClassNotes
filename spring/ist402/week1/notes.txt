@@ -1,0 +1,30 @@
+------------------
+NOTES
+------------------
+
+Introduction of AI into the work force
+	How will people be affected?
+
+The Environmental History of Computing
+	Irony of Digital Information - as we move to the cloud we do not use less space and less machines, it is just hidden
+
+	Navigation and Geography shape computing
+		The need for government to see the extended to the environment
+			weather prediction
+			modern science of ecology
+			climate sciences
+
+		Information as Infrastructure
+			Infrastructure is intended to not be seen
+			technologies are turned into infra when they "have been prefected to the point of being routine. we notice them only when they fail"
+
+		The Cloud is a Factory
+			If the cloud were a country it would be the sixth largest electricity consumer in the world
+			Data warehouse s and centers are built based on similar factors required of traditional manufacturers in america, transportation networks, water supplies, power grids, labor markets, and a political climate suitable for its building
+
+		Being Digital, Revisited
+			conflict minerals and rare earth are crucil for the production of our digital devices
+
+Joe Dumit Implosion Project
+	following connections
+
