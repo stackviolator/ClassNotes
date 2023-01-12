@@ -64,4 +64,3 @@ General Rules for Malware Analysis
 	- Try multiple tools
 	- Document everything
 	- Malware authors are constant getting more complex
-
