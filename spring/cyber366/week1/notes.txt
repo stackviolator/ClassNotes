@@ -1,0 +1,66 @@
+------------------
+NOTES
+------------------
+
+After an incident happens
+	- did the attacker implement persistence
+	- is the attacker really gone
+	- did the attacker steal or add anything
+	- what was the root cause of the attack
+
+Malware analysis goals
+	- how the malware works
+	- how to identify it (IOCs)
+	- how to defeat or eliminate it
+
+Malware types
+	- Rootkit
+		- designed to enable unauthorized access or control of a system
+		- masks existence with other code
+		- usually paired with a backdoor
+	- Backdoor
+		- allows attackers to bypass auth
+		- symptoms: connections opened, inconsistent privs, unexplained running processes
+	- Botnet
+	- Scareware
+		- Frightens the user into doing somethin
+- etc.
+
+Static vs. Dynamic Analysis
+	- Static
+		- Examines malware without running it
+		- Debuggers, disassemblers
+	- Dynamic
+		- run the malware and monitor its affects
+		- use a VM in a sandbox and take snapshots
+		- Tools: RegShot, ProcMon, Process Hacker, CaptureBAT
+		- Ram Analysis: Mandiant Redline and Volatility
+
+Basic Static Analysis
+	- View malware without looking at the instructions
+	- Tools: VirusTotal and strings
+	- Quick and easy but fails for advacned malware and can miss important behavior
+
+Basic Dynamic Analysis
+	- Easy but requires a safe test env
+	- Not effective on all malware
+		- Sandbox detection malware evades this form of dynamic analysis
+
+Advanced static analysis
+	- Reverse engineering with a disassembler
+	- complex and need to understand asm
+
+Advanced dynamic analysis
+	- Run code in a debugger and monitor its behavior
+	- examine the internal state of a running executable
+
+General Rules for Malware Analysis
+	- Not every piece of malware fits a category
+	- Don't get caught in the details
+		- you don't need to understand 100% of the code
+			- is it opening a port and waiting for incoming connections? its a backdoor
+			- dont need to understand each asm instruction of opening the socket and sending and recv bytes
+		- focus on key features
+	- Try multiple tools
+	- Document everything
+	- Malware authors are constant getting more complex
