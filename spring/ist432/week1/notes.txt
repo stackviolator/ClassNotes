@@ -111,6 +111,8 @@ The US Legal System
 				- what happened in the case
 				- what is the dispute
 				- what is the issue
+				- a concise description of the nature of the case
+				- the relevant points that would allow a reader to understand who did what to whom and why it is demmed to have been illegal/ improper
 			3. Legal Question (issue)
 				- what is the legal question
 				- what is the legal issue
@@ -130,3 +132,4 @@ The US Legal System
 		huge database of legal stuff
 		can search for cases, statutes, etc.
 		cases have synopsis (summary) very useful for our briefs
+
