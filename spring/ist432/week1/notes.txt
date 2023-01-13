@@ -58,3 +58,75 @@ Law - a set of rules set forth by and for society and government that guides our
 
 		Right to Repair - companies who do business in NY need to abide by certain guidelines such as publishing schmeatics and not voiding warranties if a person repairs their device
 
+Categories of Substantive Law
+	Contract Law
+		Regulates all apsects of agreements between parties
+		includes sales and service contracts, employment contracts, etc.
+	Tort Law
+		a tort is a civil wrong that gives rise to a cause of action or compensation
+		toers may be intentional or negligent
+		includes negligence, defamation, invasion of privacy, etc.
+		slip and fall, no cleared spill in the supermarket, etc.
+		  Things lawyers advertise for on TV
+		intentional torts - battery, assault, false imprisonment, etc.
+	Cyberspace implications for both categories
+
+
+The US Legal System
+	law is made and interpreted in the US through a combination of court cases, statutes adn admin regulations
+		all three are interrelated and interdependent
+	courts interpret statutory law and apply common law principles
+	Supreme Court often interprets the US consititution "the supreme law of the land"
+
+	Statuory Law
+		role of statutory law growing in the US, esp on issues relating to emerging technologies and info science
+		statues are passed by congress and state legislatures and seek to regulate conduct with higher degree of precision
+		statues dealing with arious aspects of info tech and in particular privary and info sec
+			began to proliferate in the 1970s
+	Regulatory Law
+		us fed govt has empowered many agencies to promulgate regulations that implement and enforce statutes
+		especially applicable to regulation of issues of financial privacy
+		regulatory investigations can lead to civil or criminal penalties
+		FTC = defacto privacy regulator (cool!)
+		  Ex. Microsoft/ Blizzard merger
+				Microsoft wants to acquire Blizzard, Blizzard wants to be acquired
+				Companies need a merger approval from the govt, the FTC does not want to approve the merger
+	Case Precedents
+		under "Stare Decisis" courts are bound by prior decisions
+		binding precedings - generally a lower court must respect the rulings of higher courts within the legal "chain of command"
+		persuasive precedents - courts are not bound by the rulings of lower (or peer) courts but are encouraged to follow them
+
+	Brifing cases
+		a format for a judicial case
+		objective, around 2 pages in length
+		Elements of the brief
+			1. Title/ Citation/ Procedural History
+				- Title of the case
+					- ex. "Erie Railroad Co. v. Tompkins, 304 U.S. 64 (1938)"
+				- Citation of the case
+				- Procedural history - what happened in the case
+				- Breif procedural history of the case
+					- ex. The case was brought to the court by the plaintiff, the plaintiff was suing the defendant for $100,000
+			2. Facts (synopsis)
+				- what happened in the case
+				- what is the dispute
+				- what is the issue
+			3. Legal Question (issue)
+				- what is the legal question
+				- what is the legal issue
+			4. Legal Answer (decision)
+				- legal rule(s) applied
+				- holding in this particular case
+			5. Discussion, Rationale, Dicta
+				- discussion of the legal rule(s) applied
+				- rationale for the decision
+				- dicta - additional comments by the court that are not part of the decision
+				- precedents, logic and chain of reasoning
+			6. Separate Opinions (if applicable)
+				- if there are separate opinions, they are listed here
+			7. Analysis (if applicable)
+
+	Westlaw
+		huge database of legal stuff
+		can search for cases, statutes, etc.
+		cases have synopsis (summary) very useful for our briefs
