@@ -1,0 +1,13 @@
+------------------
+NOTES
+------------------
+
+Techniques
+	- AV scanning ex. VirusTotal
+	- Hashes
+	- A file's strings, functions, and headers
+
+	Number systems
+		- humans count in base 1o
+		- computers count in base 2
+		- computers also use base 16 (hexadecimal)
