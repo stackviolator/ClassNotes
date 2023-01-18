@@ -1,0 +1,66 @@
+------------------
+NOTES
+------------------
+
+Facts (synopsis)
+	- concise description of the nature of the case
+	- the relevant points that would allow a reader to understand who did what to whom and why it is deemed illegal
+	- What happened
+
+Legal Question (Issue)
+	- Questions of law raised by the facts of the case
+	- Often more than one
+	- Espesially in appellate cases
+	- Interpeting the law (constitution, statute, etc.)
+
+Legal Answer (Decision)
+ - the decision or holding is the courts andwer to the legal issue or question
+ - thought process behind the decision
+ - not opinionated - like a reporter
+
+Discussion, Rationale, Dicta
+ - The reasoning, or rationale, is the chain of argument that the court uses to reach its decision
+
+Separate Opinions
+	- Decisions of panels of judges are not always unanimous
+	- Mostly only seen in the Supreme Court
+
+	- Dissenting opinions
+		- disagree with the majority opinion
+	- Concurring opinions
+		- Arrives at same conclusion as majority but with different reasoning or argumentation
+	- Helpful to have concurring and dissenting opinions to assist in reevalutaions of the law in future cases
+	- When present, briefly summarize
+
+Analysis
+	- Never required, always welcomed
+	- Significance of the case
+	- relationships to other cases
+	- place in history
+	- impact on litigants, government, society, etc.
+
+The court n shit
+
+- Litigation
+	- a case, controversy, or lawsuit
+	- a context authorized by law in a court of justice for the purpose of enforcing a right
+	- process of bringing and pursuing a lawsuit
+
+Litigation in the US
+ - Differentiation of criminal and civil law
+   - Rules of civil/ criminal procedure
+ - active role of parties
+   - key role of attorneys
+ - Litigation in the US is an adversarial process
+ 	- parties fight it out; judge and jury draw factual and legal conclusions to evdience presented
+
+The Federal Judicial System
+				US Supreme Court
+							^
+							|
+				US Courts of Appeals
+							^
+							|
+Federal District Courts/ Special federal Courts
+
+
