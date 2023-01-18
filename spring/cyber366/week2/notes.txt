@@ -1,0 +1,69 @@
+------------------
+NOTES
+------------------
+
+Techniques
+	- AV scanning ex. VirusTotal
+	- Hashes
+	- A file's strings, functions, and headers
+
+	Number systems
+		- humans count in base 1o
+		- computers count in base 2
+		- computers also use base 16 (hexadecimal)
+
+	Packing/ obfuscation
+		- Code compression (e.g. UPX, zip files)
+		- makes the strings and instructions harder to read
+		- only see the wrapper code
+			- wrapper code is small cod ethat unpacks the file when it is ran
+
+	FLOSS
+		- Strings on steroids for FLARE VM
+		- pulls out static, stack, tight, and decoded strings
+
+	PE File Format
+		- Portable Executable
+		- Windows file format
+		  - Used by files, object code and DLLs
+		- Data structure that contains the info necessary for windows to execute a file
+		- Almost every file executed on windows is a PE file
+		- PE files are divided into sections
+		  - Sections include:
+				- DOS MZ Header
+				- DOS Stub
+				- PE File Header
+					- PE Signature
+					- Information where the executbale needs to be loaded into memory
+					- Space requirements
+					- Library dependencies (DLLs)
+					- Information where the executable begins
+				- Image optional header
+				- Section Table
+				- Sections
+					- .idata
+						- Import Address Table
+					- .rsrc
+						- Resource Directory
+						- strings, icons, images, menus, dialogs, etc.
+					- .rdata
+						- import and exports
+					- .data
+						- Initialized Data (global data)
+					- .text
+						- text section contains the actual code
+						- binary data that the CPU executes
+					- .src
+						- Source code (if it exists) (source C?)
+
+	Time Date Stamp
+		- Time and date when the file was created
+		- Can be used to determine if a file has been modified
+		- Date can be faked
+
+	IMAGE_SECTION_HEADER
+		- Virtual Size - RAM
+		- Size of raw data - size of the section on disk
+		- For .text section, normally equal, or nearly equal
+		- Packed exes show Virtual Size much larger than the size of raw data for .text section
+
