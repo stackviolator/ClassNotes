@@ -63,4 +63,57 @@ The Federal Judicial System
 							|
 Federal District Courts/ Special federal Courts
 
+Jurisdiction
+	- The power of a court to adjudicate cases and issue orders
+	- The territory within which a court or government agency may properly exercise its power
+	- whether there is jurisdiction over the subject matter of the case
+	- whether there is jurisdiction over the parties to the case
+
+	- Article III of the constitution gives somewhat limited jurisdiction to the federal courts
+		- implicitly gives power to the other courts
+	- Diversity of Citizenship
+		- parties are residents of different states, and the amount in question >= $75,000
+	- Federal Question
+		- cases arising under the US constitution, laws, or treaties
+		- cases involving the US as a party
+	- State v. State rationale
+		- back in da ol days when the states were new, fear that citizens from out of state would be treated poorly
+
+Federal court Jurisdiction
+	- Federal Question
+		- Federal crimes ( constitution or federal statute )
+			- Patent, copyright, trademark, etc.
+			- Admirality cases (civil actions)
+			- Antitrust cases
+			- Securities and banking regulation
+
+State court jurisdiction
+	- Any type of case that does not fall within fed. jurisdiction
+
+Rules of Civil Procedure
+	- Conduct of federal court trials governed by the federal rules of civil procedure
+		- Rules of civil procedure are designed to promote fairness, efficiency, and economy in the conduct of litigation
+	- Induvidual states may have their own rules of civil procedure
+		- 35 states have adopted FRCP
+
+Rules of evidence
+	- Rules of evidence are designed to ensure that the truth is discovered and that the truth is the only thing that is discovered
+	- regulate presumptions and burden of proof, relevance and admissibility of evidence, and the manner in which evidence is presented
+	- competency of witnesses
+	- etc.
+
+Evidence and Burden of Proof
+	- the party asserting a fact or point of law generally has the burden of proof
+	- usual standard of evidence in civil cases is "preponderance of the evidence"
+		- the greater weight of the evidence
+	- in criminal cases, the standard of proof is "beyond a reasonable doubt"A
+		- interpreted to mean >50% in civil cases
+		- interpreted to mean >99% in criminal cases
+
+Conduct of civil trials
+	- Pleadings - plaintiff files a complaint, defendant files an answer, files summons and complaint, if you dont show u lose by default
+		|-> Pretrial discover - depositions, examinations, production of documents, etc, interrogatories, pretrial conference
+			|-> Trial
+				|-> Post-trial activities
+					|-> Appeals
 
