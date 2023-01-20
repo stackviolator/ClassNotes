@@ -67,3 +67,44 @@ Techniques
 		- For .text section, normally equal, or nearly equal
 		- Packed exes show Virtual Size much larger than the size of raw data for .text section
 
+Imports
+	functions used by a program that are stored in a different program, such as a library
+	connectec through linking
+	three types of linking
+		static
+		  rare in windows
+		run time
+			unpopular in friendly programs
+			common in malware
+			connect to libraries only when needed, not when the program starts
+			funcs used: LoadLibrary, GetProcAddress
+		dynamic
+			most common method
+			hsot os searched for libraries when the program is loaded/ starts
+
+Clues in libraries
+	the PE header lists every library and function that will be loaded
+	their names can reveal what the program does
+	URLDownloadToFile - the program is going to download a file
+
+Dynamically Linked Functions
+	normal programs have a lot of DLLs
+	malware often has very few
+
+Exports
+	DLs export functions
+	EXEs import functions but not absolute
+	both exports and imports are listed in the PE header
+
+Example keylogger
+	imoprts User32.dll and uses the function SetWindowsHookEx which is a popular way keyloggers recv keyboard inputs
+	exports LowLevelKeyboardProc and LowLevelMouseProc to send the data elsewhere
+	uses RegisterHotKey to define a special keystroke like Ctrl+Shift+P to harvest the collected data
+
+Packed program
+	very few functions
+	all you see is the unpacker
+
+Strings info
+	Host info - info relavent to the particular system/ machine
+	network info - how the malware is going to make network connections and what it will do with them
