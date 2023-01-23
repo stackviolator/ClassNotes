@@ -1,0 +1,96 @@
+------------------
+NOTES
+------------------
+
+The Trial Judge
+  Federal Judges
+		- appointed by the President/ State
+
+	State Judges
+		- elected or appointed
+
+	Functions
+		- Determines reliability of evidence
+		- Decides on legal issues based on existing laws
+		- Instructs the jury as to the law to apply
+		- When no jury, assesses evidence to determine facts
+
+The Jury
+	Functions
+		- Determines credibility of evidence
+		- Determines disputed facts
+	Possible Problems
+		- Method of selection
+		- Finding an impartial jury
+	Voir Dire Process
+		- Peremptory challenge - permits a parrt to remove a prospective juror without giving a reason
+
+Appellate Process
+	Only see written documents
+	Appellate court judges base decisions on:
+		- Trial court record
+		- Oral arguments
+		- written briefs of the parties
+		- appellate court research
+	Judgement affirmed and/ or reversed
+	Many precedents emerge from appellate courts
+
+Alternative Dispute Resolution
+------------------
+Arbitration
+	Hearings held befpre panels or induvidual arbitrators authorized to grant a remedy to the winning party
+	Parties sometimes agree to arbitration when entering into contract
+	Decision usually binding & final (limited appeals)
+	Usually conducted in private tribunal, but mandatory court annexed abristration growing
+	Advantages: quicker, cheaper, more confidential
+	Disadvantages: limited appeal, no jury, no public record
+
+Mediation and Settlement
+	Mediation - voluntary and non-binding
+		- mediator does not impose a solution or decise the case, but seeks to help the parties to reach or create their own solution
+		- Focuses attention on issues, quells emotions, urges concessions on unreasionable demands, proposed compromises, helps find common ground
+
+	Settlement
+		- Agreement between the parties that resolves the dispute to their mutual satisfaction without judicial intervention supervision or approval
+		- An out of court settlement is a compromise, both parties relinquish judicial remedies
+		- Settlements are usually confidential
+
+Criminal Law and Procedure
+------------------
+Criminal Law vs Civil Law
+Criminal Law vs Tort Law
+  Tort Law
+		- Torts are civil wrongs resulting in injruy or harm that constitutes the basis for a claim by the injured party
+			- While some torts are also punishable as crimes, most torts are not crimes
+		- Tort law is state law created by judges (common law) and by legislatures (statutory law)
+			- Many judges and states utilize the Restatement of Torts as an influential guide
+
+Classification of Crimes
+	Felonies
+		- Serious crimes punishable by death or imprisonment in a state prison for more than one year
+		- Other categories
+			- Captial offenses - possibly punishable by death
+			- First degree offenses - punishable by death or life imprisonment
+			- Second degree offenses - punishable by imprisonment in a state prison for more
+			- Third degree offenses - punishable by imprisonment in a state prison for
+	Misdeameanors
+		- Less serious crimes punishable by imprisonment in a county jail for less than one year or fines
+	Defenses to crimes - Criminal intent
+		- Infancy
+		- Intoxication - more likely involuntary intoxication
+		- insanity
+	Defenses to crimes - justify the act
+		- Consent
+		- Duress
+		- Self-defense
+		- Necessity
+
+Other ways to avoid criminal culpability
+	Statute of limitations
+		- Prevents prosecution of a crime after a certain period of time has passed
+		- Some crimes have no limit
+	Immunity
+		- Bars prosections for cooperation and information provided to the government
+	Entrapment
+		- No criminal culpability for crimes induced by government persuasion or trickery
+		- Not applicable if defendant was predisposed to commit the crime -- test is whether "ordinary law-abiding citiizen" would have been persuaded to commit the crime
