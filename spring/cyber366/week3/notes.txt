@@ -1,0 +1,50 @@
+------------------
+NOTES
+------------------
+
+Malware analysis in virtual machines
+
+Sandboxes
+	- all in one sofrare for basic dynaic analysis
+	- virtualized and sumulates network services
+	- GFI, cuckoo, joesandbox, etc.
+	- often prodice summarized reports
+	- Limitations
+		- not all malware is detected
+		- not all malware is analyzed
+		- the environment may not be correct for the malware to rub
+		- malware may detect the sandbox and not run
+		- only report basic functionality of the sandbox
+
+Launching DLLs
+	- exes can be ran by themself, DLLs cannot
+	- use rundll32.exe to launch DLLs
+	- rundll32.exe <dllname>,<function>
+	- ex: rundll32.exe C:\malware.dll,main
+	- ex: rundll32.exe xyzzy.dll, #5
+		- uses an ordinal value to call a function
+	- ex: rundll32.exe C:\malware.dll,main "C:\Users\Public\Documents\malware.txt"
+	- The exported arguments value is one of the exported functions you found in PEview, PEstudio, or other PE file analysis tool
+
+Process Monitor (procmon)
+	- monitors file system, registry, process activity, thread activity, and network activity
+	- all recorded evetns are kept but you can filter the display to make it easier to find items of interest
+	- dont run it too long or it will fill up all the RAM
+
+Process Explorer (procexp)
+	- Coloring
+		- Services are pink
+		- processes are blue
+		- new processes are green (briefly)
+		- terminated processes are red
+
+Properties
+	- verify button checks the disk file's signature
+	- particularly useful to verify whether windows files on disk has been corrupted
+	- verifies the disk image, not the RAM image (wont detect process replacement)
+	- also has strings built in
+
+Windows Registry
+	- database that stores low-level settings, config, other values for Windows and applications
+	- Malware often modifies the registry to make sure it is launched after reboot, hide itself, or to integreate with an existing application
+	- Inspect with regshot
