@@ -1,0 +1,45 @@
+------------------
+NOTES
+------------------
+
+- Criminal Law Procedures
+	- Investigation
+	- Pretrial Procedures
+	- Trial
+	- Sentencing
+	- Appeals
+	- Secondary Liability
+
+- Conduct of Criminal Trials
+	- Jury Impaneled (voir dire process)
+	- Opening statements
+		- No arguments allowed
+	- Prosecution's case-in-chief
+		- Burden of proof is all on the prosecution
+	- Defendant's case-in-chief
+		- Not required to present a case-in-chief but is very likely
+	- Closing Remarks
+		- Taking all the introduced info so the jury can make a decision
+	- Judge instructs jury regarding applicable law, burden of proof, etc
+	- Just deliberation, then verdict, possible appeal (for capital crimes appeal may be mandatory/ automatic)
+
+- Secondary Liability
+	- Accessory - aids perpetrator but is not present at the commissino of the crim
+		- Before the fact
+			- Providing weapons
+		- After the fact
+			- Hiding evidence or something
+	- Conspiracy - agreement among two or more persons to plan and commit a crime
+		- Agreement to commit a crime, need to make some overt act to do it
+	- Attempt - undertaking all the elements necessary for a crime
+		- Gotta give it up for the criminals who fail
+	- Liability of managers, corporate officers, directors, supervisors
+
+- Criminal Conspiracy
+	- Need the following elements
+		- An agreement to achieve an unlawful goal
+		- Intent to enter into the agreement and to commit elements of the underlying offense
+		- Knowledge of the illegal conspiracy
+		- the commission of an overt act by anyone to futher the conspiracy
+	- Actual commission of the act is not required
+	- Pinkerton Liability - any party to a conspiracy may be held criminally responsible
