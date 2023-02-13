@@ -54,4 +54,12 @@ Torts in Cyberspace
 		- (cyber) Fraud
 			* fraud involves a false representation of a material fact, made intentionally, that induces reliance on a false representation and thereby causes damages
 		- (Internet) Defamation
+			* encompasses the twin torts of libel and slander
+				+ typically slander is spoken, libel is written
+			* defined as the issuance of a false statement about another person, which causes that person to suffer harm
+			* Elements of Defamation
+				+ a false and defamatory statement converning another
+				+ communication of the statment to a third party
+				+ the defamatory matter is of public concern
+				+ damage to the plaintiff
 		- Invasion of Privacy
