@@ -1,0 +1,215 @@
+------------------
+NOTES
+------------------
+
+2.1.1 - Technology Policy Environment
+
+Public Policy
+course of action by the government to address public issues and promote the “common good” by developing laws, regulations, decisions, and actions
+
+Public policy goals:
+Making many commercial and other promises binding and legally enforceable (contract law)
+Rationale: enforcing mutual promises between parties who intended to be legally bound is fair
+
+Tort law establishes conditions under which victims of injuries caused by others can shift costs they incur
+Rationale: those responsible for causing injury intentionally or negligently should, in certain instances, be held liable for damages
+
+Legal protection of property, including intellectual
+Rationale: protect rights of inventor, author or creator
+Provide incentives to conceptualize and publicly introduce new ideas
+
+Individuals right to privacy must be balanced by the gov’s legitimate need to collect and use data to promote security
+Rationale: balance between individuals right to privacy and society’s legitimate needs for info
+First Amendment, Democracy, Law Enforcement/Counter-terrorism, freemarkets
+
+Policy formation in the US involve a number of overlapping domains (checks and balances)
+Federal vs state laws
+Congress v Courts
+Congress v Executive
+
+Note: policies made in states are analogous to the Federal process
+
+
+2.1.2
+
+Article 1, Section 8 of the US Constitution sets forth the explicit powers of the federal government
+10th amendment: all powers not enumerated in Constitution are reserved for the states
+
+“Commerce Clause”- source of much disagreement between federal power and states rights
+
+“Supremacy Clause” - in cases where federal authority is exclusive, policymaking is clear
+More difficult when federal law does not explicitly preempt state action
+In case of conflict: federal laws win
+
+First Amendment Issues
+Internet has expanded possibilities for dissemination of “speech”
+
+Much of the Congressional policymaking in the field of info science has focused on strengthening intellectual property protection in response to advances in technology
+
+
+
+
+2.2.1 - Regulation of Cyberspace
+
+Who regulates Cyberspace?
+Lack of formal framework; nobody’s domain
+but doesn’t mean it's NOT regulated: content is regulated
+
+Public vs “Private” Regulation
+Very little of cyberspace is under public control
+Problems of geography and sovereignty in cyberspace
+
+Private Regulatory Entities
+ICANN (Internet corporation for assigned names and numbers)
+Administers domain-name system
+HOWEVER, lack of accountability and gets too involved in policy making
+
+Net Neutrality
+A principle that all movement and content on the Internet should receive equal treatment
+2015: established that required Internet providers to treat all websites equally
+2017: FCC eliminated rules established in 2015
+
+Law and Technology – Fundamental Premises:
+Technological advances often necessitate changes in law
+Technological measures can be used to replace or supplant the balances struck by formal legal regulation
+Legal rules can affect the technological options that may be made available
+
+Fourth Amendment Elements
+Ensures independent judicial oversight
+General requires a search warrant supported by “probable cause”
+Requires reasonable expectation of privacy
+Only constrains government law enforcement
+
+Fourth Amendment Exceptions
+Consent
+Exigent circumstances
+Plain view
+Special needs
+
+
+2.2.2 - Regulation of Cyberspace
+
+Olmstead v. US (1928)
+Prohibition-era physical wiretaps on Seattle bootleggers phones from “in the street”
+Physical trespass violation required
+
+Katz v. US (1967)
+FBI attached microphone to glass public telephone booth
+Used to convict Katz for transmitting wagering information
+Appeals Court rejected Katz’s Fourth Amendment argument
+
+
+
+Katz Holding
+If person can justifiably expect that a conversation was private, it is protected from”unreasonable search and seizure” by the Fourth Amendment
+Fourth Amendment protects people, not places
+
+Harlan’s Concurrence in Katz
+Justice HArlan’s concurrence created teh “reasonable expectation of privacy test”
+
+Kyllo v US (2001)
+Suspicious: Interior Department agent suspected Kyllo growing marijuana in home
+Warrantless thermal imaging supported contention that Kyllo was using high intensity lamps
+Corroborated by tips and utility bills: basis for search warrant
+Supreme Court ruled that thermal imaging constituted a “search”
+Gov cannot conduct unreasonable searches, even with technology that does not enter the home
+Dissent: use of thermal imaging not a “search” since people can detect heat emissions
+
+Riley v California (2014)
+US Supreme Court determined that a warrant is required to search digital information on a cell phone seized pursuant to a person’s arrest
+Some warrantless searches of cellphones may be permitted in emergencies
+Exception exists to protect officer safety and preserving evidence
+
+
+Technological Protection Measures
+Programs that limit distribution and use of digital content
+TPMs seek to accomplish through technology that was previously accomplished by contract
+
+Unlawful behavior that is connected with a given technology can be addressed in two major ways:
+Regulate the actual behavior
+Regulate the technology that enables people to engage in the unlawful behavior
+
+Sony Corp of America v. Universal City Studios
+Court held VCR manufacturer not liable for creating technology that some customers may use for copyright infringing purposes, so long as the technology is capable of non infringing uses
+
+MGM Studios Inc v Grokster (2005)
+MGM and others sued the maker of the Morpheus, Grokster, etc aiming to set a precedent to use against other technology companies (P2P and other)
+SCOTUS reversed Sony ruling, crafting new doctrine of copyright infringement liability called “inducement”
+
+
+
+2.3.1 - The First Amendment and Content Regulation
+
+Internet has expanded all types of “speech” and expanded access to info considered by many to be undesirable/harmful
+Porn, hate speech, radical speech
+
+First Amendment - “freedom of speech”
+Courts analyzing type of speech and type of regulation
+Restrictions on Free Speech
+Types of speech
+Commercial speech less protected
+Speech that has less constitutional value
+Speech related to fundamental rights and liberties usually gets most protection
+
+Content Based Restrictions
+Regulate speech based on its subject matter or viewpoint
+
+Restrictions on Free Speech
+Intermediate scrutiny generally applied to “non-content based” restrictions
+
+Non-Content Based Restrictions - regulate speech without regard to its subject matter or the viewpoint conveyed
+
+First Amendment Analysis:
+Does the law regulate speech?
+How much protection does the kind of speech get?
+Is the law aimed at the speech or at the effects of the speech?
+
+Challenges to Restrictions on Free Speech
+Applied challenge: assets that the speech in question is protected by the First Amendment with respect to a certain individual
+Facial challenge: asserts that the law under which the speech is being punished reaches too much speech that clearly is protected
+
+The Supreme Court has developed the doctrines of substantial overbreadth and vagueness:
+Overbreadth Doctrine: a statute that affects first amendment rights is unconstitutional if it prohibits more protected speech or activity than is necessary to achieve a compelling gov interest
+Vagueness Doctrine: a law is facially invalid if persons of “common intelligence must necessarily guess as at its meaning and differ as to its application”
+
+
+2.3.2- The First Amendment and Content Regulation
+
+Communications Decency Act
+initial attempt by Congress to regulate obscene, indecent or otherwise sexually explicit material on the Internet
+
+Legal challenges to “indecent” and “patently offensive”:
+Reno v. American Civil Liberties Union
+
+Child Online Protection Act
+Enacted in an effort to shield children from internet pornography
+
+Commercial speech: speech that proposes a commercial transaction or an depression related solely to the economic interests of the speaker and its audience
+
+Central Hudson Test: analyzes the constitutionality of restrictions on commercial speech with elements:
+Is expression protected by First Amendment?
+Is the asserted government interest substantial?
+Does regulation directly advance government interest?
+Is regulation more extensive than necessary?
+
+Rowan v US Post Office Department (1970)
+Statute allowed individuals to request removal from mass mailing lists
+Spam mailers challenged on first amendment grounds
+Holding: commercial entities do not have right to “force” information on unwilling recipients
+
+Mainstream Marketing Services, Inc v FTC (2004)
+Telemarketers challenged the national do not call list
+Holding: do not call registry valid commercial speech regulation, meets criteria of central hudson
+
+US West Inc v FCC
+Telecoms changed FCC regulations prohibiting use of CPNI to market services without obtaining affirmative consent
+Holding: applies CHT and concludes the regulations infringed upon commercial speech
+
+Trans Union Corp v FTC
+FTC ordered Trans Union to cease selling targeted marketing lists
+Holding: “speech” in question was for a business audience, not a matter of public concern (no strict scrutiny)
+
+Sorrell v IMS Health
+Vermont law restricted the sale. Disclosure and use of pharmacy records that reveal the prescribing practices of individual doctors
+Holding: vermont did not show that its law had a “neutral justification”
+
