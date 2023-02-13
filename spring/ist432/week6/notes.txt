@@ -1,0 +1,57 @@
+------------------
+NOTES
+------------------
+
+- Performance of a Contract
+	- Usually there are benchmarks and people are happy and satisfied
+		- Measuring that performance is on track
+	- Material obligations that are not met, one party can be in breach of contract
+		- Things that are important enough to sway the decision of entering the contract
+		- It is possible to excuse performance under certain circumstances
+	- Need to be able to prove that the other party was in breach of contract -> the whole point of having a contract
+
+- Breach of Contract
+	- Breach occurs where there is a material failure to act or perform obligations as outlined by the contract
+	- The breaching party is then subject to the remedies provisions of the contract
+	- Such remedies may include:
+		* Direct damages: difference between performance received and performance promised
+		* Consequential damages: things that follow from the breach, beyond just direct damages themselves
+		   ** Fedex doesnt deliver the package, you lose business because of late delivery
+
+Torts in Cyberspace
+- Fundamentals of Torts
+	- Torts are civil wrongs
+	- Torts result in injury or harm
+	- Tort law enables injured parties to sue for injunction to prevent the continuation of the wrongful conduct or for monetary damages
+		* Injunction = court order to stop doing something
+	- Tort loaw is state law created by judges (common law) and legislatures (statutory law)
+		* Many judges and states utilize the Restatement (Second) of Torts as an influential guide
+
+	- Classification of Torts
+		- Intentional Torts (acts or omissions)
+			* Result in a violation of rights/ casuation of harm
+		- Negligent Torts
+			* Result of an unintentional act
+			* ex. Texting while driving
+		- Strict or Absolute Liability Torts
+			* Not intentional, yet no need to demonstrate negligence
+
+	- Intentional Torts in cyberspace
+		- Assault, battery, false imprisonment are less likely to happen in cyberspace
+		- Intentional infliction or emotional distress
+			* The tort is intentional infliction of emotional distress
+				** The defendant must act intentionally or recklessly
+				** The defendent's conduct must bev extreme and outrageous
+				** The conduct must be the cause of severe emotional distress
+			* Often bullying or harassment in cyberspace
+		- Trespass
+			* Trespass to chattels in cyberspace
+				+ Spam emails
+				+ Spiders and bots
+				+ Spyware
+		- Conversion - really stealing
+			* Taking someones goods and converting it to becoming our goods
+		- (cyber) Fraud
+			* fraud involves a false representation of a material fact, made intentionally, that induces reliance on a false representation and thereby causes damages
+		- (Internet) Defamation
+		- Invasion of Privacy
