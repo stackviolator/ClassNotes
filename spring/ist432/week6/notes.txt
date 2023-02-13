@@ -62,4 +62,6 @@ Torts in Cyberspace
 				+ communication of the statment to a third party
 				+ the defamatory matter is of public concern
 				+ damage to the plaintiff
+				+ Publishers are liable as the auther of defamatory material
+				+ Distributors are exempt
 		- Invasion of Privacy
