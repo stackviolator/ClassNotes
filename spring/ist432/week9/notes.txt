@@ -1,0 +1,132 @@
+------------------
+NOTES
+------------------
+
+Trade secrets
+
+Secerts Generally
+	Any formula pattern physcial device idea process or other information that has commericaial value or provides a competitive advantage
+	treated in a way that can reasonably be assumed to be secure
+
+	confidential informtation that has commerical value
+
+Rationale of special rules
+	Patents - can protect ideas but only last 20 yeats, can be difficult to acquire and expensive to litigate
+	Copyrights - last longer, they only protect the actual form of expression
+	trademarks - protectonly commerical symbols good will and brand image
+
+Other IP laws give better clarity on what exactly is protected
+Trade secrets can be used in R&D/ early phases
+
+Acquitsition of Trade Secerts
+	created and maintained as a matter of law
+	no single office that decides if a trade secret is really a trade secret
+
+Control of trade secrets
+	once acquited trade secrets must be protected
+	"reasonable efforts to maintain secrecy"
+
+Ownership of trade secrets
+	ownership of trade secrets is generally the inventor or the disoverer of a thing
+
+Sources of  trade secret law
+	General principle of equity and english common law
+	restatement of torts or unfair compeition
+	Uniform Trade Secrets Act
+		Informaiton (formula, pattern, compilation, etc)
+		derives independtent economic value from secrecy
+		subjeft of efforts, reasonable under the circumstances, to maintain secrecy
+
+		Remedies
+			Monetary Damages
+				If malicious you can get 2x the m0onies
+			Injunctions
+				Bar employment with a competitor, temp restraining order in advance
+
+	Economic Espionage Act
+		Federal Statute
+		Prohibits
+			Economic Espionage - knowingly trying to steal secrets on behalf of a foreign power
+			Theft of trade secrets - stealing for commerce
+
+
+Improper means of Acquitsition
+	Stealing, theft, bribery, espionage, etc
+
+Proper means of Acquitsition
+	Reverse engineering, indpt invention
+	public view or display
+	license
+	innocent receipt - receieved the trade secret not knowingly it was a trade secret
+	published literature
+	govt reveals the information
+
+
+
+Digital Copyright Basics
+
+Copyright law conceptually
+	Society wants to encourage the creative production of things, either artistic work, literaty work, etc
+
+History of copyright Protection
+	British Statute of Anne (1710)
+	US copyright act of 1790
+		Protected maps charts and books for 14 years with rights to renew for 14 more years
+	US Copyright Act of 1909
+		Extended terms to 28 years
+		applied to works that were published and had notice of copyright affixed
+	US Copyright Act of 1976
+		Current law, generally protects for lifetime + 70 years
+		original works of authorship fixed in any tangible medium of expression now know or later developed
+		collection of pre existing data (compilations)
+
+Elements of copyrightability
+	Original, fixed in a tangible medium of expression, directly perceivable by humans
+
+Public Domain
+	copyright has expired, govt works, explicitly given to the public domain by the copyright owner
+
+Ideas are generally not copyrightable
+Compilations are generally not copyrightable
+
+Requirement of Creativity
+	Feist vs Rural Telephone Service Co.
+	Feist compiled a phone book and Rural copied it and sold it
+	No more sweat of the brow - even though Feist compiled the book there was no creativity to it
+
+Bundle of Exlusive Rights
+	Reproduction
+	Derivative Work
+	Distribution
+	Performance
+	Display
+	Digital Transmission
+	License
+	Assignment
+
+Copyright ownership
+	Author is presumed to hold bundle of rights
+	works made for hire
+		employers typically have a claim
+		contractor defualt is the creator themself holds the claims
+
+Copyright Procedures
+	Copyright is secured automatically when the work is created
+	notice is no longer required
+
+Infringement Analysis
+	COpying or Violation of ANy right in the Bundle of Rihgts
+	Injuntion, destruction of copies, actual Damages, statutory damages, attorney's fees, criminal penalties
+
+First sale doctrine
+	Ownership of a physcial copy allows the resale of the specific item, but not the reproduction of the item
+
+Fair Use defense
+	used for criticism, comment, news reporting, teaching, etc
+	purpose and character of the use - whether the use is the commercial or educational use
+	nature of the copyrighted work
+	amount and substantiality of the portion used in relation to the copyright protected work as a whole
+	effect of use on potential market
+
+Digital, Internet & Software COpyrights
+	
