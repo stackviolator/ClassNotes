@@ -1,0 +1,112 @@
+------------------
+NOTES
+------------------
+
+6.2 Domain Names
+- Domain Names
+	- similar to domain Names
+	- use famous or distinctive trademarks or brand names
+	- Domain name vs trademarks
+		- Domain names are unique, more than on company can have the same brand but there is only one "company.com"
+	- Domains may be generic - generally trademark law will nto give protectoin to generic words "computer" "software" etc
+	- trademarks protect a limited set of good or services, domain name are exclusive, anything associated with the owner's website
+	- Registering regulated by ICANN (private entity)
+	- Domain names are served on a first come first serve basis, no real checking
+- Cybersquatting
+	- Registering a domain name like google.com and keeping it for yourself so the company is forced to by it to you
+	- Registrars must follow the Uniform Domain-Name Dispute-Resolution Policy (UDRP) - FROM ICANN
+		- most trademark based domains must be resolved by agreement, arbitration, court action, etc. before a registrar can transfer the domain
+		- disputes alleged to arise from abusive registrations of domain names may be addressed by expedited admin proceeding
+			- things like cybersquatting can be expedited
+	- anti Cybersquatting consumer protection act - from US GOVT (ACPA)
+		- liability for bad faith intent to profit from the mark
+		- is identical or confusingly similar to distinctive or famous registered mark
+		- or dilutive of a famous mark
+		- injunction against using domain name or statutory damages up to $100k for using the domain
+		- Shields v. Zuccarini
+			- Zuccarini registered thousnads of domains and many misspellings earning up to a mil a year
+			- argued that the ACPA only applied to those trying to squat a domain and then sell it back to the owner
+			- intentional misspelling are confusingly similar and therefore zuccarini had to pay 100k * 5 domain names
+- Anit-Dilution Protection
+	- tranishing
+		- association of the mark with inferiour or unsavory products
+	- blurring
+		- the distinctiveness of the mnark is "whittled away" even if there is no tarnishing
+	- First amendment issues
+		- Gripe sites, nikesucks.com something like that are fine
+	- Bally Fitness vs Faber
+		- faber was unhappy and make a stinky website about bally, court allowed faber to keep their site up
+			- No confusion, no monetary motivation
+	- Federal trademark dilution act of 1996
+		- If one use of something puts the other in bad light there does not need to be evidence of confusion or competition
+
+6.3 Cyber-patents
+	- history of patent law
+		- patent is a limited monopoly granted by the government to the first creator of a useful novel and non-obvious inventionA
+		- machines, processes and manufactured articles
+		- heavy machinery in IP law, expensive to get and defend but offer large benefits
+		- Protections
+			- both the process and the thing that results
+			- must be previously unknown
+			- similar to trade secrets
+			- patent law protects the thing that is created using the trade secret
+		- anchored in the constitution, federal law
+		- Current patent legislation
+			- America Invents act of 2011
+				- implemented a unumber of changes, most are procedural
+				- March 2013, us is a "first to file" system, over the previous "first to invent"
+		- requirements for patentability
+			- patentable subject matter
+				- process, machine, manufacture, etc
+			- utility
+				- defined "real world use"
+			- novelty
+				- must be new compared to the "prior art"
+				- first to file provision
+				- need to defend how it is new
+			- nonobviousness
+				- cant be obvious to a person "having ordinary skill in the art"
+				- public policy will not protect simple and obvious improvements to an invention
+			- enablement
+				- must reveal how to use the patent
+	- types of patents
+		- Utility patents - someone invents a new process or machines
+			- New and useful process, machine, manufacture, or composition of matter
+			- 90%+ of all applications
+		- design - anyone who invents a new, original, and ornamental design for an article of manugacture
+		- plant patent - a new type of plant lol
+		- non patentable subject matter
+			- naturally occurring things
+				- e.g. herbalist remedies
+			- abstract ideas
+				- no patents on time
+			- laws of nature
+				- law of gravity, theory of relativity cant be patented
+			- mathematical formulae
+	- patent rights
+		- the right by the patent grant is "to exclude other form making, using, offering for sale, or selling" the invention in the US
+		- once a patentee must enforce the patent without aid of the US govt - you gotta patrol if people are infringing
+	- limitations of the inventors rights
+		- goal is to provide the inventor with a reasonable yet limited monopoly
+		- limits
+			- the inventation must be qualified through stringent patentability standards
+			- the patent is limited to a fixed term (20 yrs for utility)
+			- when the patent is issued, the inventor must publically disclose the invention's secrets
+	- infringement of patents
+		- making using or selling patented material
+		- patentee may sue in federal court, need to do this yourself
+		- two primary defenses
+			- the patent is invalid
+			- the products being sold do not infringe on the patent
+		- patent act provides that an issued patent is presumed valid, the burden of establishing that a patent is invalid rests with the person asserting its invalidity
+	- remedies for infringement
+		- injunction
+		- monetary damages
+			- compensation for lost profits
+			- reasonable royalty for sales made by infringer that patent holder nevertheless would not have made
+			- prejudgement interest
+			- punitive damages, court may award up to treble damages, attorneys' fees, if the infringer was knowing and willful
+	- business method patents
+		- methodologies for running a business, not defined in the patent act
+		- overlap between business method and software patents
+		- State Street v Signature financial
